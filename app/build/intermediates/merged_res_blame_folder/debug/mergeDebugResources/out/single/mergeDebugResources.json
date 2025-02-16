@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em6.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em6.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em4.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em4.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em16.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em16.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/xml_backup_rules.xml.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em11.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em11.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em3.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em3.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em1.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em1.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em18.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em18.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em13.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em13.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em8.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em8.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em7.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em7.jpg"
+    },
+    {
+        "merged": "com.example.eliud2.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.eliud2.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em15.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em15.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em17.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em17.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em9.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em9.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em10.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em10.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em5.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em5.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em12.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em12.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em14.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em14.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_background_login.xml.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/background_login.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_prog_draw.xml.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/prog_draw.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em2.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em2.jpg"
+    },
+    {
+        "merged": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-debug-33:/drawable_em19.jpg.flat",
+        "source": "/home/eliud/.gradle/daemon/8.10.2/com.example.eliud2.app-main-35:/drawable/em19.jpg"
+    }
+]
