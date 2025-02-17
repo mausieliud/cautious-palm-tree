@@ -1,8 +1,10 @@
 package com.example.eliud2
 
+import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.ProgressBar
 import android.widget.TextView
@@ -33,6 +35,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
+
+        //button for main activity2
+        val button =findViewById<Button>(R.id.page2)
+        button.setOnClickListener { val intent = Intent(this@MainActivity,com.example.eliud2.MainActivity2::class.java)
+            startActivity(intent) }
 
         timeProgressBar = findViewById(R.id.progressBar2)
         dayMonthDate = findViewById(R.id.dayMonthDate)
